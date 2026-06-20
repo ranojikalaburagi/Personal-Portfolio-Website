@@ -31,3 +31,7 @@ To enhance user experience, several interactive features are implemented using J
 The website is fully responsive, ensuring compatibility across desktops, tablets, and mobile devices. Responsive design techniques such as flexible layouts, media queries, and adaptive components provide an optimal viewing experience regardless of screen size. Accessibility and readability are also considered during development to ensure that all users can navigate the website comfortably.
 
 Overall, the Personal Portfolio Website serves as an effective platform for personal branding and professional presentation. It combines attractive design, responsive layout, and interactive functionality to create a comprehensive digital portfolio. This project demonstrates core web development skills while providing a practical tool for showcasing achievements, technical expertise, and career aspirations in a professional manner.
+
+OUTPUT
+
+<img width="960" height="504" alt="Image" src="https://github.com/user-attachments/assets/08bbef67-d3a6-4219-b7d7-077261668bb7" />
